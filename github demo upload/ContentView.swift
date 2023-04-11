@@ -18,7 +18,7 @@ struct ContentView: View {
             Text("I just like more text")
         }
         .multilineTextAlignment(.center)
-        .font(.system(size: 40))
+        .font(.system(size: 30))
         .foregroundColor(.brown)
         .padding()
     }
